@@ -1,0 +1,6 @@
+"""
+Write your first program in Python3
+python Helloworld.py
+"""
+printf("HelloWorld in Python!!")
+printf("hi iot!!")
